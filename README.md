@@ -17,5 +17,5 @@
   <li>PHP</li>
 </ul>
 
-![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147&theme=synthwave)
+![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147)
