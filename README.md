@@ -10,7 +10,7 @@
 <ul>
   <li>An obfuscator written in Java</li>
 </ul>
-<h2>Languages I code in</h2>
+<h2>Languages I code in (currently)</h2>
 <ul>
   <li>Python</li>
   <li>Java</li>
