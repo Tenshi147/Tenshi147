@@ -11,4 +11,4 @@
   <li>An obfuscator written in Java</li>
 </ul>
 
-[![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147)](https://github.com/anuraghazra/github-readme-stats)
+[![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147)]
