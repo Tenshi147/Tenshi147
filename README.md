@@ -10,5 +10,7 @@
 <ul>
   <li>An obfuscator written in Java</li>
 </ul>
+
 <h2>My GitHub stats</h2>
+
 [![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147)](https://github.com/anuraghazra/github-readme-stats)
