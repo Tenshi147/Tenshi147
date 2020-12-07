@@ -11,5 +11,5 @@
   <li>An obfuscator written in Java</li>
 </ul>
 
-![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147&theme=dark)
+![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147&theme=synthwave)
