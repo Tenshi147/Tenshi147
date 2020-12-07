@@ -1,5 +1,15 @@
-### Hi there 👋
+<h1>😳Kami147's github page😳</h1>
 
+<h2>What i've made</h2>
+<ul>
+  <li>A Discord Token Stealer in Java</li>
+  <li>A Discord Server Nuker in Python</li>
+  <li>A Minecraft Session Grabber (for the new launcher) in Java</li>
+</ul>
+<h2>What i'm working on</h2>
+<ul>
+  <li>An obfuscator written in Java</li>
+</ul>
 <!--
 **Kami147/Kami147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
