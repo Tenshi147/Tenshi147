@@ -10,6 +10,12 @@
 <ul>
   <li>An obfuscator written in Java</li>
 </ul>
+<h2>Languages I code in</h2>
+<ul>
+  <li>Python</li>
+  <li>Java</li>
+  <li>PHP</li>
+</ul>
 
 ![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147&theme=synthwave)
