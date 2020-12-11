@@ -5,11 +5,11 @@
   <li>A Discord Token Stealer in Java</li>
   <li>A Discord Server Nuker in Python</li>
   <li>A Minecraft Session Grabber (for the new launcher) in Java</li>
+  <li>A Discord Webhook Spammer in Python</li>
 </ul>
 <h2>What i'm working on</h2>
 <ul>
   <li>An obfuscator written in Java</li>
-  <li>Webhook spammer | python</li>
 </ul>
 <h2>Languages I code in (currently)</h2>
 <ul>
