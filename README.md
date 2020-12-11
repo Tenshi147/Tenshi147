@@ -16,6 +16,7 @@
   <li>Python</li>
   <li>Java</li>
   <li>PHP</li>
+  <li>C Sharp</li>
 </ul>
 
 ![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true)
