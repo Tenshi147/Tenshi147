@@ -6,6 +6,7 @@
   <li>A Discord Server Nuker in Python</li>
   <li>A Minecraft Session Grabber (for the new launcher) in Java</li>
   <li>A Discord Webhook Spammer in Python</li>
+  <li>A Discord Webhook Deleter in Python</li>
 </ul>
 <h2>What i'm working on</h2>
 <ul>
