@@ -7,10 +7,11 @@
   <li>A Minecraft Session Grabber (for the new launcher) in Java</li>
   <li>A Discord Webhook Spammer in Python</li>
   <li>A Discord Webhook Deleter in Python</li>
+  <li>Opfern Client [Private]</li>
 </ul>
 <h2>What I'm working on</h2>
 <ul>
-  <li>An obfuscator written in Java</li>
+  <li>An obfuscator written in Java [Private]</li>
   <li>DiscordToolkit written in C#</li>
 </ul>
 <h2>Languages I code in (currently)</h2>
