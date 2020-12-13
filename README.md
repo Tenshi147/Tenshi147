@@ -11,6 +11,7 @@
 <h2>What I'm working on</h2>
 <ul>
   <li>An obfuscator written in Java</li>
+  <li>DiscordToolkit written in C#</li>
 </ul>
 <h2>Languages I code in (currently)</h2>
 <ul>
