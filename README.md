@@ -2,6 +2,7 @@
 
 ## What I've made
 - A Discord Token Stealer in Java
+- DiscordToolkit written in C#
 - A Discord Server Nuker in Python
 - A Minecraft Session Grabber (for the new launcher) in Java
 - A Discord Webhook Spammer in Python
@@ -10,7 +11,8 @@
 - An obfuscator written in Java [Private]
 
 ## What I'm working on
-- DiscordToolkit written in C#
+- VikNet for CS:GO
+- Opfern Client
 
 ## Languages I code in (currently)
 - Python
@@ -18,6 +20,8 @@
 - PHP
 - C Sharp
 
+## Languages I'm learning
+- C++
 
 ![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147)
