@@ -1,4 +1,4 @@
-# 😎Kami147's github page😎
+# Kami147's github page
 
 ## What I've made
 - A Discord Token Stealer in Java
@@ -11,7 +11,7 @@
 - An obfuscator written in Java [Private]
 
 ## What I'm working on
-- VikNet for CS:GO
+- CS:GO Cheat
 - Opfern Client
 
 ## Languages I code in (currently)
