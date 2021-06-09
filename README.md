@@ -16,7 +16,7 @@
 - PHP
 - C Sharp
 
-## Languages I'm learning
+## GitHub statistics
 
 ![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147)
