@@ -3,9 +3,6 @@
 ## What I've made
 - InstantMine for 1.12.2
 - Opfern Client [Private]
-- DiscordToolkit written in C#
-- A Discord Server Nuker in Python
-- A Discord Webhook Spammer in Python
 - A Discord Webhook Deleter in Python
 - An obfuscator written in Java [Private]
 
