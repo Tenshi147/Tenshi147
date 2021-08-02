@@ -1,6 +1,8 @@
-# Kami147's github page
+# Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147)
 ![Kami147's github stats](https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true)
+
+# Views
 
 ![](https://komarev.com/ghpvc/?username=Kami147)
