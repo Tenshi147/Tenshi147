@@ -1,4 +1,6 @@
-# Statistics
+<h1 align="center">
+Kami147
+</h1>
 
 <p align= "center">
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true&include_all_commits=true" />
