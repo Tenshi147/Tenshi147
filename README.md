@@ -7,8 +7,8 @@ Kami147
 
 <p align= "center">
 <br \>
-<img height= "180" src="https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true&include_all_commits=true" />
-<img height= "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147&layout=compact" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true&include_all_commits=true" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147&layout=compact" />
 <br \>
-<img height= "40" src="https://komarev.com/ghpvc/?username=Kami147" />
+<img src="https://komarev.com/ghpvc/?username=Kami147" />
 </p>
