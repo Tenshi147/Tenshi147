@@ -2,8 +2,7 @@
 Kami147
 </h1>
 
-- Currently working on MidnightSniperV2
-- Ex-Anarchy Developer
+I do things
 
 <p align= "center">
 <br \>
