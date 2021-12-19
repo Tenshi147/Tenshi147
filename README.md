@@ -13,4 +13,5 @@ Kami147 <img src="https://komarev.com/ghpvc/?username=Kami147" />
 <p align="center">
 <img height= "160" src="https://github-readme-stats.vercel.app/api?username=Kami147&show_icons=true&include_all_commits=true" />
 <img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kami147&layout=compact" />
+<img height= "190" src="https://github-readme-streak-stats.herokuapp.com/?user=Kami147&theme=dark" />
 </p>
