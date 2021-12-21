@@ -3,7 +3,7 @@ Kami147 <img src="https://komarev.com/ghpvc/?username=Kami147" />
 </h1>
 
 <pre>
-- Interested in: Python, C, GoLang and NodeJS
+- Interested in: Python, C, Java, GoLang and NodeJS
 - Working on:    Limitless Sniper
 - Pronouns:      They/Them (or anything it doesn't really matter)
 - Discord:       Kawaii#2006
