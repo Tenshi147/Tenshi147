@@ -4,8 +4,8 @@ Kami147 <img src="https://komarev.com/ghpvc/?username=Kami147" />
 
 <pre>
 - Interested in: Python, C, Java, GoLang and NodeJS
-- Working on:    Limitless Sniper
-- Pronouns:      They/Them (or anything it doesn't really matter)
+- Working on:    Nothing
+- Pronouns:      They/Them
 - Discord:       None
 - Website:       Coming soon...
 </pre>
