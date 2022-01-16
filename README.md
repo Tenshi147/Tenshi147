@@ -7,7 +7,7 @@ Kami147 <img src="https://komarev.com/ghpvc/?username=Kami147" />
 - Working on:    Nothing
 - Pronouns:      They/Them
 - Discord:       None
-- Website:       Coming soon...
+- Website:       Coming soon... (As soon as I can decide what to put on it)
 </pre>
 
 <p align="center">
