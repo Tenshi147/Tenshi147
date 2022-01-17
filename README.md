@@ -1,10 +1,10 @@
 <h1 align="center">
-Kami147 <img src="https://komarev.com/ghpvc/?username=Kami147" />
+Tenshi147 <img src="https://komarev.com/ghpvc/?username=Kami147" />
 </h1>
 
 <pre>
 - Interested in: Python, C, Java, GoLang and NodeJS
-- Working on:    Nothing
+- Working on:    KamiSniper
 - Pronouns:      They/Them
 - Discord:       None
 - Website:       Coming soon... (As soon as I can decide what to put on it)
