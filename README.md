@@ -1,5 +1,6 @@
 <h1 align="center">
-Tenshi <img src="https://komarev.com/ghpvc/?username=Tenshi147" />
+Tenshi <br />
+<img src="https://komarev.com/ghpvc/?username=Tenshi147" />
 </h1>
 
 <pre>
