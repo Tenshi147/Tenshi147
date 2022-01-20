@@ -1,5 +1,5 @@
 <h1 align="center">
-Tenshi147 <img src="https://komarev.com/ghpvc/?username=Tenshi147" />
+Tenshi <img src="https://komarev.com/ghpvc/?username=Tenshi147" />
 </h1>
 
 <pre>
@@ -7,7 +7,7 @@ Tenshi147 <img src="https://komarev.com/ghpvc/?username=Tenshi147" />
 - Working on:    KamiSniper
 - Pronouns:      They/Them
 - Discord:       None
-- Website:       Coming soon... (As soon as I can decide what to put on it)
+- Website:       Coming soon
 </pre>
 
 <p align="center">
