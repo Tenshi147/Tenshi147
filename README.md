@@ -4,11 +4,12 @@ Tenshi <br />
 </h1>
 
 <pre>
-- Interested in: Python, C, Java, GoLang and NodeJS
-- Working on:    KamiSniper
-- Pronouns:      They/Them
-- Discord:       None
-- Website:       Coming soon
+- Currently learning:  Rust
+- Interested in:       Python, Java, GoLang and NodeJS
+- Working on:          KamiSniper
+- Pronouns:            They/Them
+- Discord:             None
+- Website:             Coming soon
 </pre>
 
 <p align="center">
