@@ -1,15 +1,15 @@
 <h1 align="center">
-Tenshi <br />
+Tenshi 🏳️‍⚧️<br />
 <img src="https://komarev.com/ghpvc/?username=Tenshi147" />
 </h1>
 
 <pre>
-- Currently learning:  Rust
-- Interested in:       Python, Java, GoLang and NodeJS
-- Working on:          KamiSniper
-- Pronouns:            They/Them
-- Discord:             None
-- Website:             Coming soon
+- Currently learning:    Rust
+- Interested in:         Python, Java, GoLang and NodeJS
+- Working on:            KamiSniper
+- Pronouns:              They/She
+- Discord:               None
+- Website:               Coming soon
 </pre>
 
 <p align="center">
