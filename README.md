@@ -4,9 +4,8 @@ Tenshi<br />
 </h1>
 
 <pre>
-- Currently learning:    Rust
-- Interested in:         Python, Java, GoLang and NodeJS
-- Working on:            KamiSniper
+- Interested in:         Python, Java, Go
+- Working on:            A lot
 - Discord:               None
 - Website:               Coming soon
 </pre>
